@@ -3,7 +3,62 @@
     {
       "wallpaper_name": "Isometric gamer room",
       "author": "Trishiraj",
-      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/fitgirl-repacks-api/main/wallpapers/my_isometric_room.png"
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/my_isometric_room.png"
+    },
+    {
+      "wallpaper_name": "Cafe racer country road",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/cafe_racer_country_road.png"
+    },
+    {
+      "wallpaper_name": "Cafe racer garden",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/cafe_racer_garden.png"
+    },
+    {
+      "wallpaper_name": "Cyberpunk cruiser",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/cyberpunk_cruiser.png"
+    },
+    {
+      "wallpaper_name": "Forest water stream",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/forest_water_stream.png"
+    },
+    {
+      "wallpaper_name": "Bright Isometric room",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/isometric_room_bright.png"
+    },
+    {
+      "wallpaper_name": "Landscape brush art",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/landscape_art.png"
+    },
+    {
+      "wallpaper_name": "Landscape poly art",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/landscape_poly.png"
+    },
+    {
+      "wallpaper_name": "Landscape Water color",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/landscape_water_color.png"
+    },
+    {
+      "wallpaper_name": "Mountain View",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/mountain_view.png"
+    },
+    {
+      "wallpaper_name": "NightCity Sky",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/nightcity_sky.png"
+    },
+    {
+      "wallpaper_name": "Royal Enfield in cherry blossom",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/royal_enfield_cherry_blossom.png"
     }
   ]
 }
