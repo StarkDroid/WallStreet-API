@@ -59,6 +59,21 @@
       "wallpaper_name": "Royal Enfield in cherry blossom",
       "author": "Trishiraj",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/royal_enfield_cherry_blossom.png"
+    },
+    {
+      "wallpaper_name": "BMW M2 Competizion vector",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/bmw-m2-vector.png"
+    },
+    {
+      "wallpaper_name": "Cafe racer night city",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/caferacer-nightcity.png"
+    },
+    {
+      "wallpaper_name": "Lamborghini bike concept",
+      "author": "Trishiraj",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/lamborghini-bike-concept.png"
     }
   ]
 }
