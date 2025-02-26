@@ -1,79 +1,132 @@
 {
   "desktop": [
     {
-      "wallpaper_name": "Isometric gamer room",
-      "author": "Trishiraj",
+      "category": "#isometric",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/my_isometric_room.png"
     },
     {
-      "wallpaper_name": "Cafe racer country road",
-      "author": "Trishiraj",
+      "category": "#bikes",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/cafe_racer_country_road.png"
     },
     {
-      "wallpaper_name": "Cafe racer garden",
-      "author": "Trishiraj",
+      "category": "#bikes",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/cafe_racer_garden.png"
     },
     {
-      "wallpaper_name": "Cyberpunk cruiser",
-      "author": "Trishiraj",
+      "category": "#bikes",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/cyberpunk_cruiser.png"
     },
     {
-      "wallpaper_name": "Forest water stream",
-      "author": "Trishiraj",
+      "category": "#landscape",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/forest_water_stream.png"
     },
     {
-      "wallpaper_name": "Bright Isometric room",
-      "author": "Trishiraj",
-      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/isometric_room_bright.png"
+      "category": "#isometric",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/isometric_room_bright_HD.png"
     },
     {
-      "wallpaper_name": "Landscape brush art",
-      "author": "Trishiraj",
+      "category": "#landscape",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/landscape_art.png"
     },
     {
-      "wallpaper_name": "Landscape poly art",
-      "author": "Trishiraj",
+      "category": "#landscape",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/landscape_poly.png"
     },
     {
-      "wallpaper_name": "Landscape Water color",
-      "author": "Trishiraj",
+      "category": "#landscape",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/landscape_water_color.png"
     },
     {
-      "wallpaper_name": "Mountain View",
-      "author": "Trishiraj",
+      "category": "#landscape",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/mountain_view.png"
     },
     {
-      "wallpaper_name": "NightCity Sky",
-      "author": "Trishiraj",
+      "category": "#landscape",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/nightcity_sky.png"
     },
     {
-      "wallpaper_name": "Royal Enfield in cherry blossom",
-      "author": "Trishiraj",
+      "category": "#bikes",
       "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/royal_enfield_cherry_blossom.png"
     },
     {
-      "wallpaper_name": "BMW M2 Competizion vector",
-      "author": "Trishiraj",
-      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/bmw-m2-vector.png"
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/bmw-m2-vector-HD.png"
     },
     {
-      "wallpaper_name": "Cafe racer night city",
-      "author": "Trishiraj",
-      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/caferacer-nightcity.png"
+      "category": "#bikes",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/caferacer-nightcity-HD.png"
     },
     {
-      "wallpaper_name": "Lamborghini bike concept",
-      "author": "Trishiraj",
-      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/lamborghini-bike-concept.png"
+      "category": "#bikes",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/lamborghini-bike-concept-HD.png"
+    },
+    {
+      "category": "#isometric",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/floating_isometric_castle.png"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/yellow_hue_lamborghini.jpg"
+    },
+    {
+      "category": "#landscape",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/cyberpunk_night_city.png"
+    },
+    {
+      "category": "#bikes",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/rainy_ducati_panigale.jpg"
+    },
+    {
+      "category": "#art",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/lion_head_art.png"
+    },
+    {
+      "category": "#landscape",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/mythical_fantasy_land.jpg"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/bmw_m2_vector.jpg"
+    },
+    {
+      "category": "#space",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/earth_from_moon.png"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/nissan_gtr_vector.jpg"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/mercedes_amg_vector.jpg"
+    },
+    {
+      "category": "#space",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/glowing_particle_surrounded_earth.png"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/subaru_brz_vector.jpg"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/mustang_white_blue_stripe.jpg"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/mustang_vector.jpg"
+    },
+    {
+      "category": "#landscape",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/purple_hue_landscape.jpg"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/bmw_rainy_day.jpg"
+    },
+    {
+      "category": "#cars",
+      "imageUrl": "https://raw.githubusercontent.com/StarkDroid/WallStreet-API/main/wallpapers/bmw_autmn.jpg"
     }
   ]
 }
