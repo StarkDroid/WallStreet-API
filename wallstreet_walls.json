@@ -2,133 +2,166 @@
   "desktop": [
     {
       "category": "#isometric",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/my_isometric_room.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/my_isometric_room.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/my_isometric_room.jpg"
     },
     {
       "category": "#bikes",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/cafe_racer_country_road.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/cafe_racer_country_road.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/cafe_racer_country_road.jpg"
     },
     {
       "category": "#bikes",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/cafe_racer_garden.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/cafe_racer_garden.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/cafe_racer_garden.jpg"
     },
     {
       "category": "#bikes",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/cyberpunk_cruiser.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/cyberpunk_cruiser.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/cyberpunk_cruiser.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/forest_water_stream.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/forest_water_stream.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/forest_water_stream.jpg"
     },
     {
       "category": "#isometric",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/isometric_room_bright_HD.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/isometric_room_bright_HD.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/isometric_room_bright_HD.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/landscape_art.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/landscape_art.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/landscape_art.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/landscape_poly.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/landscape_poly.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/landscape_poly.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/landscape_water_color.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/landscape_water_color.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/landscape_water_color.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mountain_view.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mountain_view.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/mountain_view.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/nightcity_sky.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/nightcity_sky.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/nightcity_sky.jpg"
     },
     {
       "category": "#bikes",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/royal_enfield_cherry_blossom.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/royal_enfield_cherry_blossom.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/royal_enfield_cherry_blossom.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/bmw-m2-vector-HD.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/bmw-m2-vector-HD.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/bmw-m2-vector-HD.jpg"
     },
     {
       "category": "#bikes",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/caferacer-nightcity-HD.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/caferacer-nightcity-HD.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/caferacer-nightcity-HD.jpg"
     },
     {
       "category": "#bikes",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/lamborghini-bike-concept-HD.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/lamborghini-bike-concept-HD.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/lamborghini-bike-concept-HD.jpg"
     },
     {
       "category": "#isometric",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/floating_isometric_castle.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/floating_isometric_castle.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/floating_isometric_castle.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/yellow_hue_lamborghini.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/yellow_hue_lamborghini.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/yellow_hue_lamborghini.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/cyberpunk_night_city.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/cyberpunk_night_city.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/cyberpunk_night_city.jpg"
     },
     {
       "category": "#bikes",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/rainy_ducati_panigale.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/rainy_ducati_panigale.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/rainy_ducati_panigale.jpg"
     },
     {
       "category": "#art",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/lion_head_art.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/lion_head_art.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/lion_head_art.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mythical_fantasy_land.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mythical_fantasy_land.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/mythical_fantasy_land.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/bmw_m2_vector.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/bmw_m2_vector.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/bmw_m2_vector.jpg"
     },
     {
       "category": "#space",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/earth_from_moon.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/earth_from_moon.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/earth_from_moon.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/nissan_gtr_vector.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/nissan_gtr_vector.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/nissan_gtr_vector.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mercedes_amg_vector.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mercedes_amg_vector.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/mercedes_amg_vector.jpg"
     },
     {
       "category": "#space",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/glowing_particle_surrounded_earth.png"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/glowing_particle_surrounded_earth.png",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/glowing_particle_surrounded_earth.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/subaru_brz_vector.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/subaru_brz_vector.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/subaru_brz_vector.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mustang_white_blue_stripe.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mustang_white_blue_stripe.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/mustang_white_blue_stripe.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mustang_vector.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/mustang_vector.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/mustang_vector.jpg"
     },
     {
       "category": "#landscape",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/purple_hue_landscape.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/purple_hue_landscape.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/purple_hue_landscape.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/bmw_rainy_day.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/bmw_rainy_day.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/bmw_rainy_day.jpg"
     },
     {
       "category": "#cars",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/bmw_autmn.jpg"
+      "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/bmw_autmn.jpg",
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/bmw_autmn.jpg"
     }
   ],
+
   "mobile": [
     {
       "category": "#dark",
