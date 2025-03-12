@@ -1,4 +1,13 @@
 {
+  "config": [
+    {
+      "appUpdateVersion": "2.0.1",
+      "androidUpdateUrl": "",
+      "windowsUpdateUrl": "",
+      "linuxUpdateUrl": "",
+      "macUpdateUrl": ""
+    }
+  ],
   "desktop": [
     {
       "category": "isometric",
