@@ -1,7 +1,7 @@
 {
   "config":
     {
-      "appUpdateVersion": "2.0.1",
+      "appUpdateVersion": "1.0.0",
       "androidUpdateUrl": "",
       "windowsUpdateUrl": "",
       "linuxUpdateUrl": "",
