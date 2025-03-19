@@ -2,10 +2,10 @@
   "config":
     {
       "appUpdateVersion": "2.1.1",
-      "androidUpdateUrl": "",
-      "windowsUpdateUrl": "",
-      "linuxUpdateUrl": "",
-      "macUpdateUrl": ""
+      "androidUpdateUrl": "https://github.com/StarkDroid/WallStreet/releases",
+      "windowsUpdateUrl": "https://github.com/StarkDroid/WallStreet/releases/download/initial-release/WallStreet-installer-1.0.0.msi",
+      "linuxUpdateUrl": "https://github.com/StarkDroid/WallStreet/releases/download/initial-release/wallstreet_1.0.0_amd64.deb",
+      "macUpdateUrl": "https://github.com/StarkDroid/WallStreet/releases/download/initial-release/WallStreet-1.0.0.dmg"
     },
   "desktop": [
     {
