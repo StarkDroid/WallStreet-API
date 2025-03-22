@@ -9,7 +9,7 @@
     },
   "desktop": [
     {
-      "category": "isometric",
+      "category": "illustration",
       "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/my_isometric_room.png",
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/my_isometric_room.jpg"
     },
@@ -34,7 +34,7 @@
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/forest_water_stream.jpg"
     },
     {
-      "category": "isometric",
+      "category": "illustration",
       "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/isometric_room_bright_HD.png",
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/isometric_room_bright_HD.jpg"
     },
@@ -84,7 +84,7 @@
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/lamborghini-bike-concept-HD.jpg"
     },
     {
-      "category": "isometric",
+      "category": "illustration",
       "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/floating_isometric_castle.png",
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/floating_isometric_castle.jpg"
     },
@@ -439,11 +439,6 @@
       "category": "cartoon",
       "imageUrl": "https://starkdroid.github.io/WallStreet-API/mobile/IMG_20250304_153456_807.jpg",
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/mobile/thumbnail/IMG_20250304_153456_807.webp"
-    },
-    {
-      "category": "dark",
-      "imageUrl": "https://starkdroid.github.io/WallStreet-API/mobile/IMG_20250304_153510_254.jpg",
-      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/mobile/thumbnail/IMG_20250304_153510_254.webp"
     },
     {
       "category": "space",
