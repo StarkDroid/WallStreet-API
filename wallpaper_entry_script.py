@@ -7,7 +7,7 @@ desktop_dir = Path("desktop")
 mobile_dir = Path("mobile")
 
 # Path to your JSON file
-json_file = Path("wallpapers.json")
+json_file = Path("wallstreet_walls.json")
 
 # Load existing JSON data
 if json_file.exists():
