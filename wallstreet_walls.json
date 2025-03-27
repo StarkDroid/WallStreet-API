@@ -103,7 +103,7 @@
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/rainy_ducati_panigale.jpg"
     },
     {
-      "category": "art",
+      "category": "Art",
       "imageUrl": "https://starkdroid.github.io/WallStreet-API/desktop/lion_head_art.png",
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/desktop/thumbnail/lion_head_art.jpg"
     },
@@ -575,7 +575,7 @@
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/mobile/thumbnail/IMG_20250304_180007_768.webp"
     },
     {
-      "category": "minimalistic",
+      "category": "Minimalistic",
       "imageUrl": "https://starkdroid.github.io/WallStreet-API/mobile/IMG_20250304_180429_623.jpg",
       "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/mobile/thumbnail/IMG_20250304_180429_623.webp"
     },
