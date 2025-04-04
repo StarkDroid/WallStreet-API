@@ -28,5 +28,9 @@
 > [!IMPORTANT]
 > The App is capable of handing formats like `JPG`, `PNG` and `PNG`
 
+> [!NOTE]
+> The wallpapers added here are all sourced from various external sources, I do not claim any of the images posted here
+> Neither do I ever plan to profit out of it, hence its all open source and the app is free
+
 1. Once done `git add . && git commit -m "Add your desired commit message" && git push origin gh-pages`.
 2. Then finally head to git and make a pull request to the original `WallStreet-API` repository.

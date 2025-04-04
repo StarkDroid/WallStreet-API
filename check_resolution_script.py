@@ -2,7 +2,7 @@ import os
 import shutil
 from PIL import Image
 
-source_folder = r"folder/path/goes/here"
+source_folder = r"C:\Users\gamer\Downloads\new wallpaper"
 enhance_folder = os.path.join(source_folder, "need-enhance")
 
 os.makedirs(enhance_folder, exist_ok=True)
@@ -14,7 +14,7 @@ for filename in os.listdir(source_folder):
         with Image.open(file_path) as img:
             width, height = img.size
             
-            if width < 1080 or height < 1920:
+            if width < 900 and height < 1920:
                 shutil.move(file_path, os.path.join(enhance_folder, filename))
                 print(f"Moved: {filename} (Resolution: {width}x{height})")
     
