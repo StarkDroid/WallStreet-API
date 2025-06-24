@@ -759,6 +759,35 @@
       ],
       "imageUrl": "https://StarkDroid.github.io/WallStreet-API/desktop/468869287_541294712223477_7402784753616259315_n-2.jpg",
       "thumbnailUrl": "https://StarkDroid.github.io/WallStreet-API/desktop/thumbnail/468869287_541294712223477_7402784753616259315_n-2.jpg"
+    },
+    {
+      "category": "Anime",
+      "tags": [
+        "Anime",
+        "one piece",
+        "luffy",
+        "anime",
+        "rain",
+        "straw hat",
+        "wet",
+        "digital art",
+        "manga"
+      ],
+      "imageUrl": "https://StarkDroid.github.io/WallStreet-API/desktop/463648910_1277192769980511_1874663588042240043_n.jpg",
+      "thumbnailUrl": "https://StarkDroid.github.io/WallStreet-API/desktop/thumbnail/463648910_1277192769980511_1874663588042240043_n.jpg"
+    },
+    {
+      "category": "Illustration",
+      "tags": [
+        "Illustration",
+        "isometric",
+        "floating island",
+        "fantasy",
+        "house",
+        "waterfall"
+      ],
+      "imageUrl": "https://StarkDroid.github.io/WallStreet-API/desktop/Designer_(4).png",
+      "thumbnailUrl": "https://StarkDroid.github.io/WallStreet-API/desktop/thumbnail/Designer_(4).jpg"
     }
   ],
   "mobile": [
@@ -2498,6 +2527,33 @@
       ],
       "imageUrl": "https://StarkDroid.github.io/WallStreet-API/mobile/468503769_1339700377408609_5016543764169918099_n.jpg",
       "thumbnailUrl": "https://StarkDroid.github.io/WallStreet-API/mobile/thumbnail/468503769_1339700377408609_5016543764169918099_n.jpg"
+    },
+    {
+      "category": "TV shows",
+      "tags": [
+        "TV shows",
+        "The Joker",
+        "DC Comics",
+        "villain",
+        "playing cards",
+        "madness"
+      ],
+      "imageUrl": "https://StarkDroid.github.io/WallStreet-API/mobile/IMG_8234.JPG",
+      "thumbnailUrl": "https://StarkDroid.github.io/WallStreet-API/mobile/thumbnail/IMG_8234.jpg"
+    },
+    {
+      "category": "Cars",
+      "tags": [
+        "Cars",
+        "Lamborghini",
+        "Aventador",
+        "red",
+        "car",
+        "architecture",
+        "city"
+      ],
+      "imageUrl": "https://StarkDroid.github.io/WallStreet-API/mobile/476624752_17863053981341311_6479075538707377858_n.jpg",
+      "thumbnailUrl": "https://StarkDroid.github.io/WallStreet-API/mobile/thumbnail/476624752_17863053981341311_6479075538707377858_n.jpg"
     }
   ]
 }
