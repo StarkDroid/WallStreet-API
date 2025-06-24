@@ -1,8 +1,8 @@
 {
   "config": {
-    "appUpdateVersion": "2.5.1",
+    "appUpdateVersion": "2.6.0",
     "androidUpdateUrl": "https://play.google.com/store/apps/details?id=com.velocity.wallstreet",
-    "windowsUpdateUrl": "https://github.com/StarkDroid/WallStreet/releases/download/release%2F2.5.1/WallStreet-2.5.1.exe",
+    "windowsUpdateUrl": "https://github.com/StarkDroid/WallStreet/releases/download/release%2F2.6.0/WallStreet-2.6.0.exe",
     "linuxUpdateUrl": "https://github.com/StarkDroid/WallStreet/releases/download/release%2F2.0.2/wallstreet_2.0.2_amd64.deb",
     "macUpdateUrl": "https://github.com/StarkDroid/WallStreet/releases/download/release%2F2.5.1/WallStreet-2.5.1.dmg"
   },
