@@ -2574,7 +2574,11 @@
     {
       "category": "Space",
       "tags": [
-        "Space"
+        "Space",
+        "space",
+        "planet",
+        "glowing",
+        "dark"
       ],
       "imageUrl": "https://StarkDroid.github.io/WallStreet-API/mobile/SaveClip.App_503664910_17890619718266610_4601394989880402899_n.jpg",
       "thumbnailUrl": "https://StarkDroid.github.io/WallStreet-API/mobile/thumbnail/SaveClip.App_503664910_17890619718266610_4601394989880402899_n.jpg"
