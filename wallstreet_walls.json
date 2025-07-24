@@ -814,7 +814,16 @@
     {
       "category": "Cartoon",
       "imageUrl": "https://starkdroid.github.io/WallStreet-API/mobile/471504795_3954087891536322_122513156923825934_n.jpg",
-      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/mobile/thumbnail/471504795_3954087891536322_122513156923825934_n.webp"
+      "thumbnailUrl": "https://starkdroid.github.io/WallStreet-API/mobile/thumbnail/471504795_3954087891536322_122513156923825934_n.webp",
+      "tags": [
+        "Cartoon",
+        "Shaun the Sheep",
+        "cartoon",
+        "green background",
+        "sheep",
+        "cute",
+        "animal"
+      ]
     },
     {
       "category": "Animal",
